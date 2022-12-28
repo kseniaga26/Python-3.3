@@ -1,6 +1,8 @@
 # Решение задания 3.2.1 
 
 ![image](https://user-images.githubusercontent.com/114469025/209812670-a91aec69-e5ae-4d2d-8132-e42885de1ed7.png)
+![image](https://user-images.githubusercontent.com/114469025/209819040-8e538b01-67b1-484c-9dd5-3e0c3598d824.png)
+
 
 # Решение задания 3.3.1
 
